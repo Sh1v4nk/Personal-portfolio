@@ -365,7 +365,7 @@ body {
 
   .main{
     flex-direction: column-reverse;
-    height: 75vh;
+    height: 70vh;
   }
 
   .main-content h1{
@@ -391,8 +391,8 @@ body {
   }
 
   .image-container .image{
-    height: 300px;
-    width: 300px;
+    height: 250px;
+    width: 250px;
     margin: 0 0 5% 0;
   }
 
