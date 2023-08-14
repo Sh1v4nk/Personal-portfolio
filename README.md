@@ -15,7 +15,7 @@ This website showcases my skills, projects, and provides a way to get in touch w
 
 ## Demo
 
-You can check out the live version of the portfolio [here] (https://sh1v4nk.github.io/Personal-portfolio/).
+You can check out the live version of the portfolio [here](https://sh1v4nk.github.io/Personal-portfolio/).
 
 ## Technologies Used
 
