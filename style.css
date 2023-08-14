@@ -351,6 +351,7 @@ body {
 
   .navbar i{
     display: block;
+    width: 12%;
     margin: 10% 0 10% 10%;
     font-size: 30px;
     color: #141414;
