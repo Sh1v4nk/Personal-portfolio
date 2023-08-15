@@ -46,7 +46,7 @@ Remember, every contribution, no matter how small, is appreciated. Together, we 
 ## Credits
 
 - Typing animation using [Typed.js](https://github.com/mattboldt/typed.js/)
-- Icons from [Boxicons](https://boxicons.com/) and [fontawesome](https://fontawesome.com/v4/get-started/)
+- Icons from [Boxicons](https://boxicons.com/) and [Fontawesome](https://fontawesome.com/v4/get-started/)
 
 ---
 
