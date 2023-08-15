@@ -334,7 +334,7 @@ body {
     height: 100vh;
     width: 55vw;
     top: 0;
-    right: -300px;
+    right: -400px;
     z-index: 2;
     transition: .5s;
   }
