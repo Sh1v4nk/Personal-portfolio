@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,19 +9,21 @@
     <link rel="shortcut icon" href="https://i.ibb.co/M5ZbVFH/icon.png" type="image/x-icon">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
     <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
 </head>
+
 <body>
 
     <header class="header">
         <a href="#" class="logo">Shivank.</a>
         <nav class="navbar" id="navbar">
             <i class="fa fa-times" onclick="hideMenu()"></i>
-            <a href="#" class="active">Home</a>
-            <a href="#">About</a>
+            <a href="#home" class="active">Home</a>
+            <a href="#about">About</a>
             <a href="#">Skills</a>
             <a href="#">Projects</a>
             <a href="#">Contact Me</a>
@@ -28,7 +31,7 @@
         <i class="fa fa-bars" onclick="showMenu()"></i>
     </header>
 
-    <div class="main">
+    <section class="main" id="home">
 
         <div class="main-content">
             <h1>Hey, I'm Shivank</h1>
@@ -51,25 +54,32 @@
             <img draggable="false" class="image" src="https://i.ibb.co/Ms2qyTK/Goku-1.png" alt="Goku SSJB">
         </span>
 
-    </div>
 
-    
-    <script>
-        var navbar = document.getElementById("navbar")
-        function showMenu(){
-            navbar.style.right = "0";
-        }
-        function hideMenu(){
-            navbar.style.right = "-400px";
-        }
+    </section>
 
-        var typed = new Typed('#element', {
-            strings: ['Learner.', 'Coding Adventurer.', 'Digital Explorer.', 'Gamer for Fun.'],
-            typeSpeed: 30,
-            loop: true,
-            backSpeed: 25,
-            backDelay: 1000,
-        });
-    </script>
+    <section class="about-content" id="about">
+
+        <div>
+            <h3>About</h3>
+            <p>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Reiciendis doloribus suscipit quam facere fugiat
+                nemo nostrum consequuntur animi iure, soluta quis sapiente enim praesentium, quibusdam quaerat et. Quasi,
+                illo ipsum accusamus architecto quo illum error blanditiis veniam officia excepturi dolore doloribus
+                molestias et labore quisquam impedit atque. Dolores officia culpa maxime doloribus corrupti? Dolorem in
+                blanditiis possimus nulla illum necessitatibus officiis alias, hic tempora, est eos dolore, laborum nam
+                atque odio magni! Sit officiis blanditiis optio alias laborum quisquam praesentium.
+            </p>
+        </div>
+
+    </section>
+
+
+
+
+
+
+
+
+    <script src="script.js"></script>
 </body>
 </html>
