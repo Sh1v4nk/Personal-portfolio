@@ -329,9 +329,8 @@ body {
 
 /* Section styling */
 .section-style {
-  min-height: 90vh;
-  margin-top: 3%;
-  padding: 0 10%;
+  height: 100vh;
+  padding: 6rem 10% 3rem;
 }
 
 /* Dot styling present in labels */
@@ -398,6 +397,29 @@ body {
   background: rgba(245, 245, 247, 0.1);
   padding: 0.8rem;
   border-radius: 16px;
+}
+
+/* Projeects section stylings */
+.project-label {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.project-wrapper .project-label h3 {
+  font-size: 3rem;
+  font-weight: 900;
+}
+
+.contact-label{
+  display: flex;
+  justify-content: center;
+}
+
+.contact-label h3{
+  font-size: 5rem;
+  font-weight: 900;
 }
 
 
