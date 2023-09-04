@@ -54,6 +54,10 @@ body {
   z-index: 100;
 }
 
+.header i {
+  display: none;
+}
+
 .logo {
   position: relative;
   font-size: 1.32rem;
@@ -68,10 +72,6 @@ body {
 
 .navbar {
   position: relative;
-}
-
-.header i {
-  display: none;
 }
 
 .navbar a {
@@ -233,14 +233,10 @@ body {
   width: 100%;
 }
 
-.image {
-  position: relative;
-}
-
 .image-container img {
   position: relative;
-  max-height: 80%;
-  max-width: 85%;
+  max-height: 550px;
+  max-width: 550px;
   margin: 10% 0 0 25%;
   filter: drop-shadow(1.5px 1.5px 9px var(--accent-color));
 }
@@ -272,8 +268,7 @@ body {
   margin-bottom: 2rem;
 }
 
-/* About section stylings */
-.about-wrapper .about-label h3 {
+.about-wrapper .about-label h3 , .project-wrapper .project-label h3 {
   font-size: 3rem;
   font-weight: 900;
 }
@@ -318,13 +313,6 @@ body {
   border-radius: 16px;
 }
 
-/* Projeects section stylings */
-.project-wrapper .project-label h3 {
-  font-size: 3rem;
-  font-weight: 900;
-}
-
-/* Contact section stylings */
 .contact-label {
   display: flex;
   justify-content: center;
@@ -347,7 +335,7 @@ body {
   width: 100%;
   background: var(--accent-color);
   animation: showRight 1s ease forwards;
-  animation-delay: 0.2s;
+  animation-delay: .2s;
 }
 
 .navbar::before {
@@ -359,7 +347,7 @@ body {
   width: 100%;
   background: var(--accent-color);
   animation: showRight 1.2s ease forwards;
-  animation-delay: 0.4s;
+  animation-delay: .4s;
 }
 
 .main-content h1::before {
@@ -371,7 +359,7 @@ body {
   width: 100%;
   background: var(--accent-color);
   animation: showRight 1s ease forwards;
-  animation-delay: 0.6s;
+  animation-delay: .6s;
 }
 
 .main-content h3::before {
@@ -383,7 +371,7 @@ body {
   width: 100%;
   background: var(--accent-color);
   animation: showRight 1s ease forwards;
-  animation-delay: 0.8s;
+  animation-delay: .8s;
 }
 
 .main-content p::before {
@@ -422,6 +410,7 @@ body {
   animation: showRight 1s ease forwards;
   animation-delay: 1.4s;
 }
+
 
 /* keyframe for animation */
 @keyframes showRight {
