@@ -25,8 +25,17 @@ You can check out the live version of the portfolio [here](https://sh1v4nk.githu
 
 ## How to Use
 
-1. Clone this repository: `git clone https://github.com/Sh1v4nk/Personal-portfolio`
-2. Navigate to the project directory: cd Personal-portfolio
+1. Clone this repository: 
+```bash
+git clone https://github.com/Sh1v4nk/Personal-portfolio
+```
+
+2. Navigate to the project directory: 
+
+```bash
+cd Personal-portfolio
+```
+
 3. Open the `index.html` file in your web browser to view the portfolio.
 
 ## Customization
