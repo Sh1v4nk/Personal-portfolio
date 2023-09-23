@@ -2,6 +2,16 @@
 
 Welcome to my personal portfolio repository! This repository contains the code and assets for my personal portfolio website.
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Demo](#demo)
+- [Technologies Used](#technologies-used)
+- [How to Use](#how-to-use)
+- [Customization](#customization)
+- [Contributing](#contributing)
+- [Credits](#credits)
+
 ## Overview
 
 This website showcases my skills, projects, and provides a way to get in touch with me. It's built using HTML, CSS, and JavaScript. The main features of the portfolio include:
