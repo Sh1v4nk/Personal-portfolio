@@ -69,7 +69,7 @@ Remember, every contribution, no matter how small, is appreciated. Together, we 
 
 ---
 
-Thank you for visiting my portfolio repository. If you have any suggestions or feedback, feel free to reach out to me.
+Thank you for visiting my Personal-portfolio repository. If you have any suggestions or feedback, feel free to reach out to me.
 
 Connect with me:
 <div align="center">
