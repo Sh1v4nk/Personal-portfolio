@@ -23,10 +23,6 @@ This website showcases my skills, projects, and provides a way to get in touch w
 - A visually appealing image.
 - Smooth scrolling navigation.
 
-## Demo
-
-You can check out the live version of the portfolio [here](https://sh1v4nk.github.io/Personal-portfolio/).
-
 ## Technologies Used
 
 - HTML
@@ -35,18 +31,15 @@ You can check out the live version of the portfolio [here](https://sh1v4nk.githu
 
 ## How to Use
 
-1. Clone this repository: 
+1. Clone the repository using the following command:
+
 ```bash
 git clone https://github.com/Sh1v4nk/Personal-portfolio
 ```
 
-2. Navigate to the project directory: 
+2. Open the `index.html` file in your web browser.
 
-```bash
-cd Personal-portfolio
-```
-
-3. Open the `index.html` file in your web browser to view the portfolio.
+3. Alternatively, you can view a live demo of the SnakeXenzia [here](https://sh1v4nk.github.io/Personal-portfolio/).
 
 ## Customization
 
