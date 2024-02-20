@@ -5,7 +5,6 @@ Welcome to my personal portfolio repository! This repository contains the code a
 ## Table of Contents
 
 - [Overview](#overview)
-- [Demo](#demo)
 - [Technologies Used](#technologies-used)
 - [How to Use](#how-to-use)
 - [Customization](#customization)
