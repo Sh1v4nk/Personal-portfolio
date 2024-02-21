@@ -5,8 +5,8 @@ Welcome to my personal portfolio repository! This repository contains the code a
 ## Table of Contents
 
 - [Overview](#overview)
+- [Installation](#installation)
 - [Technologies Used](#technologies-used)
-- [How to Use](#how-to-use)
 - [Customization](#customization)
 - [Contributing](#contributing)
 - [Credits](#credits)
@@ -22,13 +22,7 @@ This website showcases my skills, projects, and provides a way to get in touch w
 - A visually appealing image.
 - Smooth scrolling navigation.
 
-## Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-
-## How to Use
+## Installation
 
 1. Clone the repository using the following command:
 
@@ -39,6 +33,12 @@ git clone https://github.com/Sh1v4nk/Personal-portfolio
 2. Open the `index.html` file in your web browser.
 
 3. Alternatively, you can view a live demo of the SnakeXenzia [here](https://sh1v4nk.github.io/Personal-portfolio/).
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
 
 ## Customization
 
