@@ -9,7 +9,6 @@ Welcome to my personal portfolio repository! This repository contains the code a
 - [Technologies Used](#technologies-used)
 - [Customization](#customization)
 - [Contributing](#contributing)
-- [Credits](#credits)
 
 ## Overview
 
@@ -53,11 +52,6 @@ I believe that the best projects are built collaboratively. If you're interested
 - **New Features:** Is there a cool feature missing? Share your thoughts and maybe even implement it.
 
 Remember, every contribution, no matter how small, is appreciated. Together, we can make this portfolio even better and more impressive.
-
-## Credits
-
-- Typing animation using [Typed.js](https://github.com/mattboldt/typed.js/)
-- Icons from [Boxicons](https://boxicons.com/) and [Fontawesome](https://fontawesome.com/v4/get-started/)
 
 ---
 
