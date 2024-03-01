@@ -7,7 +7,6 @@ Welcome to my personal portfolio repository! This repository contains the code a
 - [Overview](#overview)
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
-- [Customization](#customization)
 - [Contributing](#contributing)
 
 ## Overview
@@ -38,10 +37,6 @@ git clone https://github.com/Sh1v4nk/Personal-portfolio
 - HTML
 - CSS
 - JavaScript
-
-## Customization
-
-Feel free to customize the content, styles, and images according to your preferences. You can edit the `index.html` file to update the text and links, and the `style.css` file for styling changes.
 
 ## Contributing
 
