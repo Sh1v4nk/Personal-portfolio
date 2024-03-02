@@ -7,7 +7,6 @@ Welcome to my personal portfolio repository! This repository contains the code a
 - [Overview](#overview)
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
 
 ## Overview
 
@@ -37,16 +36,6 @@ git clone https://github.com/Sh1v4nk/Personal-portfolio
 - HTML
 - CSS
 - JavaScript
-
-## Contributing
-
-I believe that the best projects are built collaboratively. If you're interested in contributing to this portfolio, you're more than welcome to! Here are some ways you can contribute:
-
-- **Bug Fixes:** If you come across any bugs or issues, please open an issue or submit a pull request with a fix.
-- **Enhancements:** Have an idea to improve the portfolio? Feel free to discuss it in the issues or send a pull request.
-- **New Features:** Is there a cool feature missing? Share your thoughts and maybe even implement it.
-
-Remember, every contribution, no matter how small, is appreciated. Together, we can make this portfolio even better and more impressive.
 
 ---
 
