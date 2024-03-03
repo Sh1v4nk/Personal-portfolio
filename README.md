@@ -37,6 +37,13 @@ git clone https://github.com/Sh1v4nk/Personal-portfolio
 - CSS
 - JavaScript
 
+## Screenshots
+
+<div align="center">
+  <img src="https://i.ibb.co/64DkKp1/image.png" alt="Portfolio Screenshot" />
+</div>
+
+
 ---
 
 Thank you for visiting my Personal-portfolio repository. If you have any suggestions or feedback, feel free to reach out to me.
