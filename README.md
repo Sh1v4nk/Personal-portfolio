@@ -7,6 +7,8 @@ Welcome to my personal portfolio repository! This repository contains the code a
 - [Overview](#overview)
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
+
 
 ## Overview
 
