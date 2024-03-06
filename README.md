@@ -7,7 +7,7 @@ Welcome to my personal portfolio repository! This repository contains the code a
 - [Overview](#overview)
 - [Installation](#installation)
 - [Technologies Used](#technologies-used)
-- [Screenshots](#screenshots)
+- [Screenshot](#screenshot)
 
 
 ## Overview
@@ -39,7 +39,7 @@ git clone https://github.com/Sh1v4nk/Personal-portfolio
 - CSS
 - JavaScript
 
-## Screenshots
+## Screenshot
 
 <div align="center">
   <img src="https://i.ibb.co/64DkKp1/image.png" alt="Portfolio Screenshot" />
