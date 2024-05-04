@@ -21,7 +21,7 @@ This website showcases my skills, projects, and provides a way to get in touch w
 - A visually appealing image.
 - Smooth scrolling navigation.
 
-## 🛠🔧 Installation
+## 🔧 Installation
 
 1. Clone the repository using the following command:
 
