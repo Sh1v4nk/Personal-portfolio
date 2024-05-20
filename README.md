@@ -10,7 +10,7 @@ Welcome to my personal portfolio repository! This repository contains the code a
 - [Screenshot](#screenshot)
 
 
-## 🌟 Overview
+## Overview
 
 This website showcases my skills, projects, and provides a way to get in touch with me. It's built using HTML, CSS, and JavaScript. The main features of the portfolio include:
 
@@ -21,7 +21,7 @@ This website showcases my skills, projects, and provides a way to get in touch w
 - A visually appealing image.
 - Smooth scrolling navigation.
 
-## 🔧 Installation
+## Installation
 
 1. Clone the repository using the following command:
 
@@ -33,13 +33,13 @@ git clone https://github.com/Sh1v4nk/Personal-portfolio
 
 3. Alternatively, you can view a live demo of the [Portfolio](https://sh1v4nk.github.io/Personal-portfolio/).
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 
-## 📸 Screenshot
+## Screenshot
 
 <div align="center">
   <img src="https://i.ibb.co/64DkKp1/image.png" alt="Portfolio Screenshot" />
