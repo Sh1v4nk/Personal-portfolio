@@ -28,6 +28,9 @@ This website showcases my skills, projects, and provides a way to get in touch w
 ```bash
 git clone https://github.com/Sh1v4nk/Personal-portfolio
 ```
+```
+ cd Personal-portfolio
+```
 
 2. Open the `index.html` file in your web browser.
 
