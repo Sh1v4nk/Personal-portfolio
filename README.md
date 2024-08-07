@@ -39,7 +39,7 @@ git clone https://github.com/Sh1v4nk/Personal-portfolio
 ## Technologies Used
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- CSS
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - JavaScript
 
 ## Screenshot
