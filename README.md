@@ -40,7 +40,7 @@ git clone https://github.com/Sh1v4nk/Personal-portfolio
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- JavaScript
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## Screenshot
 
