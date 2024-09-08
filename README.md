@@ -1,6 +1,9 @@
+<div align="center">
+
 # Personal-Portfolio
 
 Welcome to my personal portfolio repository! This repository contains the code and assets for my personal portfolio website.
+</div>
 
 ## Table of Contents
 
